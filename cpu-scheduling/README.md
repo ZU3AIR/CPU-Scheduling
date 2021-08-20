@@ -3,8 +3,6 @@
 
 This is the second assignment for the CA216 Operating Systems Module.
 
-The video for the additional questions: https://www.youtube.com/watch?v=XqvWtJqCdak&ab_channel=ZubairAsif
-
 ## Files
 This repo contains 5 main python files:
 
