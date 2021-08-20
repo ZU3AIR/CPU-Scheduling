@@ -1,6 +1,5 @@
 """
-Author: Muhammad Zubair Asif
-Student ID: 18314236
+Author: Zubair Asif
 
 'I acknowledge the DCU Academic Integrity Policy'
 
